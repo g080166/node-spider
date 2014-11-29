@@ -11,6 +11,7 @@
     "cheerio": "0.17.0",
     "mysql":"2.4.3 ",
     "mongodb": ">= 0.9.9",
-    "connect-mongo": ">= 0.1.7"
+    "connect-mongo": ">= 0.1.7",
+    "log4js":""
   }
 }
